@@ -1,0 +1,10 @@
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+.env
+config.json
+wristband_runtime.log
+dataset_raw/
+*.log
