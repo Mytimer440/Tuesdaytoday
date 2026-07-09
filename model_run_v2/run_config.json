@@ -1,0 +1,18 @@
+{
+  "data_dir": ".\\processed_dataset",
+  "out_dir": ".\\model_run_v2",
+  "epochs": 10,
+  "batch_size": 32,
+  "lr": 0.001,
+  "weight_decay": 0.0001,
+  "dropout": 0.2,
+  "step_alpha": 4.0,
+  "gait_weight": 0.2,
+  "patience": 8,
+  "seed": 42,
+  "num_workers": 0,
+  "max_train_batches": null,
+  "max_val_batches": null,
+  "step_threshold": 0.5,
+  "gait_threshold": 0.5
+}
