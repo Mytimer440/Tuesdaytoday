@@ -1,0 +1,9 @@
+Add Python wristband monitor program
+bleak
+pybluez2
+numpy
+torch
+onnx
+pandas
+matplotlib
+scikit-learn
